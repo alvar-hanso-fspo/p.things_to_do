@@ -19,7 +19,3 @@ def to_do_generator():
     return result + to_dos
 
 
-
-print(to_do_generator())
-
-
