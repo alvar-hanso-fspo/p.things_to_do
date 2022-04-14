@@ -1,9 +1,7 @@
-
-
 def to_do_generator():
 
-    project_name = input("Project name: ")
-    to_do_name = input("To-Do name: ")
+    project_name = input("Project name: ").replace(" ","_")
+    to_do_name = input("To-Do name: ").replace(" ","_")
     initial_number = int(input("First number: "))
     final_number = int(input("Final number: "))
 
@@ -19,3 +17,4 @@ def to_do_generator():
     return result + to_dos
 
 
+print(to_do_generator())
