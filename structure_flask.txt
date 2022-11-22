@@ -1,0 +1,16 @@
+LICENSE
+Makefile
+README.md
+requirements.txt
+requirements-test.txt
+requirements-base.txt
+minitoring>app.py
+project_name>templates
+project_name>css
+project_name>__init__.py
+project_name>__main__.py
+project_name>base.py
+tests>test_base.py
+querys>
+settings.toml
+setup.py
