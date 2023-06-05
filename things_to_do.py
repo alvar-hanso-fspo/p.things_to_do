@@ -10,10 +10,10 @@ def to_do_generator():
     #    final_number = int(input("Final number: "))
 
     # **********************
-    project_name = 'RCKST-GuiaJS-Aula1'  # Não deixe espaço em branco
-    to_do_name = 'RCKST-GuiaJS-Aula-11-'
+    project_name = 'MSFT-BackForBeginners'  # Não deixe espaço em branco
+    to_do_name = 'Aula'
     initial_number = 1
-    final_number = 5
+    final_number = 25
     # **********************
 
     project_default = "things:///add-project?title="
